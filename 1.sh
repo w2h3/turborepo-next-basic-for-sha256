@@ -1,1 +1,1 @@
-cat .vercel/output/builds.json
+ls -la .vercel
