@@ -1,1 +1,4 @@
-cat .vercel/output/builds.json
+echo "cwd"
+ls -la
+echo "cwd but higher"
+ls -la ..
